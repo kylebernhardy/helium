@@ -1,0 +1,17 @@
+{
+  "name": "helium",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "node-helium": "file:node-helium-3.3.1.tar.gz",
+    "random-words": "^1.1.0",
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
